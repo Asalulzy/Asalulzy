@@ -1,4 +1,4 @@
-### Hi, I'm Asalul — AI/Data Engineer focused on LLM & RAG systems 👋
+### Hi, I'm Asalul — AI/Data enthusiast focused on LLM & RAG systems 👋
 
 Statistics graduate (Universitas Syiah Kuala) building end-to-end AI pipelines —
 from document embedding and retrieval to LLM-based reasoning and deployment.
