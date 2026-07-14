@@ -1,11 +1,14 @@
+<div align="center">
+
 # Hey, I'm Asalul Musaffa 👋
 
-**Data Scientist | AI Engineer | Data Analyst | Businees Intelligence**
+**Data Scientist | AI Engineer | Data Analyst | Business Intelligence**
 
 *Turning data into intelligent systems — from analysis to deployment.*
 
----
 
+---
+</div>
 ## 👨‍💻 About Me
 
 ```python
@@ -74,17 +77,13 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asalulzy&show_icons=true&theme=radical" height="165" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asalulzy&theme=radical" height="165" alt="GitHub streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asalulzy&layout=compact&theme=radical" height="140" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asalulzy&layout=compact&theme=radical" height="165" alt="Top languages" />
 </p>
 
 ---
-
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asalul-musaffa)
@@ -93,10 +92,11 @@ me.say_hi()
 
 ---
 
-## ✍️ Quote I Live By
-
+<div align="center">
+    
 > *"In God we trust. All others must bring data."* — W. Edwards Deming
 
 ---
 
 *Made with 💻, ☕, and lots of curiosity in Aceh, Indonesia* 🇮🇩
+</div>
