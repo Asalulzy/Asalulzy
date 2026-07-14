@@ -75,12 +75,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asalulzy&show_icons=true&theme=radical" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asalulzy&show_icons=true&theme=radical" height="165" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asalulzy&theme=radical" height="165" alt="GitHub streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asalulzy&layout=compact&theme=radical" height="140" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asalulzy&layout=compact&theme=radical" height="140" alt="Top languages" />
 </p>
 
 ---
