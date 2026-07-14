@@ -1,6 +1,6 @@
 # Hey, I'm Asalul Musaffa 👋
 
-**Data Scientist | AI Engineer | RAG & LLM Enthusiast**
+**Data Scientist | AI Engineer | Data Analyst | Businees Intelligence**
 
 *Turning data into intelligent systems — from analysis to deployment.*
 
