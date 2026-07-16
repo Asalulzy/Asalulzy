@@ -99,5 +99,5 @@ me.say_hi()
 
 ---
 
-*Made with 💻, ☕, and lots of curiosity in Aceh, Indonesia* 🇮🇩
+*Made with 💻, ☕, and lots of curiosity in Aceh, Indonesia*
 </div>
